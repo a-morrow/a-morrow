@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-morrow
+- 👋 Hi, I’m Alex M! 
 - 👀 I’m interested in Data Analytics, Data Engineering, Web Scraping, and Automated Testing on Web Applications (using Selenum!) 
 
 <!---
